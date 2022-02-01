@@ -96,7 +96,6 @@ nbformat==5.0.7
 nest-asyncio==1.4.0
 notebook==6.1.4
 numpy==1.19.1
-opencv-python @ file:///C:/Users/prince/Downloads/opencv_python-4.4.0-cp38-cp38-win32.whl
 openpyxl==3.0.6
 packaging==20.4
 pafy==0.5.5
@@ -112,7 +111,6 @@ playsound==1.2.2
 plyer==1.4.3
 prometheus-client==0.8.0
 prompt-toolkit==3.0.7
-PyAudio @ file:///C:/Users/prince/Downloads/PyAudio-0.2.11-cp38-cp38-win32.whl
 PyAutoGUI==0.9.50
 pycparser==2.20
 pydub==0.25.1
