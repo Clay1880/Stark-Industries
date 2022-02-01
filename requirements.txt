@@ -43,7 +43,6 @@ fontstyle==1.0.1.2
 future==0.18.2
 gevent==20.6.2
 gevent-websocket==0.10.1
-gmpy2 @ file:///C:/Users/prince/Downloads/gmpy2-2.0.8-cp38-cp38-win32.whl
 google==3.0.0
 googletrans==3.0.0
 greenlet==0.4.16
